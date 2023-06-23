@@ -2,4 +2,4 @@
 
 ## About it
 
-This project will be based for the study of React in general and how to set up a correct and well done web page based on my own personal information.
+This project will be for the creation of my portfolio using React.js, Node.js, JavasScript, HTML, and CSS
